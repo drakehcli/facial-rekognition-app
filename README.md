@@ -1,3 +1,8 @@
+This app recognizes employee faces from a database when prompted a picture.
+Developed using Rekognition, Lambda, DynamoDB, API Gateway, S3
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
